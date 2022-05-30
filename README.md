@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @winter-x64
-- 👀 I’m interested in games dev
-- 🌱 I’m currently learning nodejs
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
-
 <p>
 <h2 align = "center">❄️ Akhil B Xavier ❄️</h2>
 <h3 align = "center">Technology enthusiast | Game Developer | Web Developer</h3>
@@ -13,7 +7,7 @@
 
 ### **About me**
 
-_Games_ and _technology_ are my passions.
+> _Games_ and _technology_ are my passions.
 
 Over the last years I have spent an inordinate amount of time immersed in learning technologies and making games, my main interest is in concept art and.
 
@@ -29,6 +23,17 @@ good at:-
     -   html5-css-js
     -   sql
 
--   Design
+-   Design tools
+
     -   figma
     -   canva
+
+<`br>
+
+---
+
+> current status:-
+
+-   🌱 I’m currently learning nodejs
+-   💞️ I’m looking to collaborate on projects
+-   📫 How to reach me twitter or discord (Winter_x64#2549)
