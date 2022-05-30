@@ -28,7 +28,7 @@ good at:-
     -   figma
     -   canva
 
-<`br>
+<br>
 
 ---
 
