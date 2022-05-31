@@ -1,6 +1,6 @@
 <p>
 <h2 align = "center">❄️ Akhil B Xavier ❄️</h2>
-<h3 align = "center">Technology enthusiast | Game Developer | Web Developer</h3>
+<h3 align = "center">Technology enthusiast | Game Developer</h3>
 </p>
 
 ---
