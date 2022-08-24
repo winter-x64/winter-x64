@@ -37,15 +37,7 @@ good at:-
     -   canva
 
 <br>
-
 ---
-
-> current status:-
-
--   🌱 I’m currently learning nodejs
--   💞️ I’m looking to collaborate on projects
--   📫 How to reach me twitter or discord (Winter_x64#2549)
-
 <p align="center">
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=winter-x64&show_icons=true&locale=en&layout=compact" alt="winter-x64" />
@@ -58,3 +50,9 @@ good at:-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=winter-x64&" alt="winter-x64" /></p>
 
 </p>
+
+> current status:-
+
+-   🌱 I’m currently learning nodejs
+-   💞️ I’m looking to collaborate on projects
+-   📫 How to reach me twitter or discord (Winter_x64#2549)
