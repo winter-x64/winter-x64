@@ -25,8 +25,8 @@ good at:-
 
 -   coding
 
-    -   c/c++
-    -   c#
+    -   c
+    -   c++
     -   python
     -   html5-css-js
     -   sql
