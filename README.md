@@ -17,9 +17,9 @@
 
 > _Games_ and _technology_ are my passions.
 
-Over the last years I have spent an inordinate amount of time immersed in learning technologies and making games, my main interest is in concept art and.
+I am a B.Tech student studying Electronics and Communication Engineering, with a passion for web development, game development, and robotics. From crafting engaging websites to designing immersive games, and exploring the realm of robotics, I bring a versatile skill set to the table.
 
-I get a lot of enjoyment from sharing new ideas and gaining perspective from the experiences of others.
+Throughout my academic journey, I have had the opportunity to work on various projects that have allowed me to develop my skills in these areas. I am constantly seeking new challenges and opportunities to further expand my knowledge and expertise. Please feel free to browse through my portfolio to learn more about my work and accomplishments. Thank you for visiting!
 
 good at:-
 
