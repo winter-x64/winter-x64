@@ -32,7 +32,7 @@ Throughout my academic journey, I have had the opportunity to work on various pr
 
 ## 🐦 Latest Tweet
 
-[![](https://gtce.itsvg.in/api?username=winter-x64)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=winter_x64)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 
