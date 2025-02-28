@@ -2,7 +2,7 @@
 <h1 align="center">🚀 Hey, I'm winter_x64! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C3E6&width=500&lines=Tech+Enthusiast+%7C+Builder+%7C+Innovator;Full-stack+%26+Embedded+Developer;AI%2C+IoT%2C+and+Space+Tech+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C3E6&width=700&lines=Tech+Enthusiast+%7C+Builder+%7C+Full-stack+%7C+Tech+Explorer" />
 </p>
 
 ---
@@ -60,8 +60,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C3E6&width=500&lines=Let's+connect+and+build+cool+stuff!;Reach+out+for+tech%2C+startups%2C+collabs!">
 </p>
-
----
 
 ---
 
