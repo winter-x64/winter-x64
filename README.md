@@ -18,7 +18,7 @@
 💻 **Software:** Flask, Vue.js, Django, API Development  
 🔌 **Hardware:** ESP32, Raspberry Pi, IoT, Embedded Systems  
 🧠 **AI & Data:** Computer Vision, ML, Edge Computing  
-🌍 **Tech Community:** Founder of a group building software & hardware solutions
+🌍 **Tech Community:** Founder of [BuilderClan](https://github.com/BuilderCastle) building software & hardware solutions
 
 ---
 
