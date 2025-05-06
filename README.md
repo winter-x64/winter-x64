@@ -24,7 +24,7 @@
 
 ### 🔥 Current Projects
 
--   🚀 **[CubeSat Spectrophotometer](#)** – DIY IR spectrometer for space applications
+-   🚀 **[DropaNote](https://dropanote.onrender.com/)** – A Feedback collections tool for devs and creators
 -   📋 **[Waitlist Web App](#)** – Google Sheets-powered form & registration system
 -   🤖 **[API](#)** – Production-level API for tracking Discord referrals
 
