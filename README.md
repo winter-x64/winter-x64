@@ -53,7 +53,7 @@
   <a href="mailto:winterx64.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/winter-x64/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://x.com/winter_x64"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=&logoColor=white"></a>
-<a href="https://winter-x64.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"></a>
+<a href="https://winter-x64.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"></a>
 
 </p>
 
