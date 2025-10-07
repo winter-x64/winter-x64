@@ -66,12 +66,12 @@ Where I corrupt innocent minds with the beauty of creative programming.
 ## 📊 Stats That Spark Joy
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=winter-x64&show_icons=true&theme=tokyonight&bg_color=0d0a20&title_color=9d4edd&icon_color=c77dff&text_color=e0aaff&border_color=9d4edd" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=winter-x64&theme=tokyonight&background=0d0a20&border=9d4edd&ring=c77dff&fire=e0aaff&currStreakLabel=ffffff&stroke=9d4edd" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=winterx64&show_icons=true&theme=tokyonight&bg_color=0d0a20&title_color=9d4edd&icon_color=c77dff&text_color=e0aaff&border_color=9d4edd" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=winterx64&theme=tokyonight&background=0d0a20&border=9d4edd&ring=c77dff&fire=e0aaff&currStreakLabel=ffffff&stroke=9d4edd" alt="GitHub Streak" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=winter-x64&theme=tokyo-night&bg_color=0d0a20&color=9d4edd&line=c77dff&point=e0aaff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=winterx64&theme=tokyo-night&bg_color=0d0a20&color=9d4edd&line=c77dff&point=e0aaff&area=true&hide_border=true" />
 </p>
 
 ---
