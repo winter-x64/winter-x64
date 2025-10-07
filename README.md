@@ -111,9 +111,9 @@ Where I corrupt innocent minds with the beauty of creative programming.
 
 <p align="center">
   <a href="mailto:winterx64.work@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-9D4EDD?style=for-the-badge&logoColor=white&labelColor=0d0a20"></a>
-  <a href="https://www.linkedin.com/in/winter-x64/"><img src="https://img.shields.io/badge/💼_LinkedIn-C77DFF?style=for-the-badge&logoColor=white&labelColor=0d0a20"></a>
+  <a href="https://www.linkedin.com/in/winterx64/"><img src="https://img.shields.io/badge/💼_LinkedIn-C77DFF?style=for-the-badge&logoColor=white&labelColor=0d0a20"></a>
   <a href="https://x.com/winter_x64"><img src="https://img.shields.io/badge/🐦_Twitter-9D4EDD?style=for-the-badge&logoColor=white&labelColor=0d0a20"></a>
-  <a href="https://winter-x64.github.io"><img src="https://img.shields.io/badge/🎨_Portfolio-C77DFF?style=for-the-badge&logoColor=white&labelColor=0d0a20"></a>
+  <a href="https://winterx64.github.io"><img src="https://img.shields.io/badge/🎨_Portfolio-C77DFF?style=for-the-badge&logoColor=white&labelColor=0d0a20"></a>
 </p>
 
 <p align="center">
